@@ -1,4 +1,4 @@
-# Program #1
+# Elementary Arithmetic
 
 ## Objectives
 1. Introduction to MASM assembly language
